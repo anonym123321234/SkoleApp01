@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Min App</string>
+    <string name="tittel">Velkommen!</string>
+    <string name="Kalender_skrift">Kalender</string>
+    <string name="karakter_skrift">Dine karakterer</string>
+    <string name="kalender_tittel">Her er din prøveplan:</string>
+    <string name="neste_prøve">Din neste prøve er om</string>
+    <string name="prøve_tall">0 dager</string>
+
+</resources>

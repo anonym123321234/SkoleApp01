@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CalenderView"
+    android:background="@color/backroundBlue"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/dateTekst"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/kalender_tittel"
+        android:textColor="@color/white"
+        android:textSize="23sp"
+        android:layout_marginLeft="105dp"
+        android:layout_marginTop="48dp"
+        android:paddingBottom="20dp">
+    </TextView>
+<LinearLayout
+    android:background="@drawable/calender_round_corner"
+    android:paddingTop="10dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <sun.bob.mcalendarview.MCalendarView
+        android:id="@+id/kalender"
+        android:layout_width="400dp"
+        android:layout_height="400dp"
+        tools:ignore="MissingConstraints">
+            <TextView
+                android:id="@+id/cellText"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+            </TextView>
+    </sun.bob.mcalendarview.MCalendarView>
+</LinearLayout>
+</LinearLayout>

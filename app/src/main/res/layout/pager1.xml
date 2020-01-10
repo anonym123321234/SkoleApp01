@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/colorPrimary">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Vg3-karakterer"
+        android:gravity="center"
+        android:textSize="40dp"
+        ></TextView>
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:stretchColumns="*">
+        <TableRow>
+            <TextView
+                android:text="Fagene"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:text="Matte"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:text="Fysikk"
+                android:textColor="#000"
+                android:textSize="20dp" />
+            <TextView
+                android:text="TOF"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:text="Norsk"
+                android:textColor="#000"
+                android:textSize="20dp" />
+            <TextView
+                android:text="Gym"
+                android:textColor="#000"
+                android:textSize="20dp" />
+            <TextView
+                android:text="Historie"
+                android:textColor="#000"
+                android:textSize="20dp" />
+            <TextView
+                android:text="Relgion"
+                android:textColor="#000"
+                android:textSize="20dp" />
+        </TableRow><!--Fagene-->
+        <TableRow>
+            <TextView
+                android:text="1. Prøve"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp" />
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp" />
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp" />
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp" />
+
+        </TableRow><!--1. Karakter-->
+        <TableRow>
+            <TextView
+                android:text="2. Prøve"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp" />
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp" />
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp" />
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp" />
+
+        </TableRow><!--2. Karakter-->
+        <TableRow>
+            <TextView
+                android:text="3. prøve"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp" />
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp" />
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp" />
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp" />
+
+        </TableRow><!--3. Karakter-->
+        <TableRow>
+            <TextView
+                android:text="Halvårskarakter"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp" />
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp" />
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp" />
+
+        </TableRow><!--Halvårskarakter-->
+        <TableRow>
+            <TextView
+                android:text="4. prøve"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp" />
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp" />
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp" />
+        </TableRow><!--4. Karakter-->
+        <TableRow>
+            <TextView
+                android:text="5. prøve"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp" />
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp" />
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp" />
+        </TableRow><!--5. Karakter-->
+        <TableRow>
+            <TextView
+                android:text="6. prøve"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp" />
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp" />
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp" />
+        </TableRow><!--6. Karakter-->
+        <TableRow>
+            <TextView
+                android:text="Standpunkt"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp" />
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp" />
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp" />
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp" />
+        </TableRow><!-- Standpunkt-->
+        <TableRow>
+            <TextView
+                android:text="Eksamen"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp" />
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp" />
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp" />
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp"></TextView>
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp" />
+            <TextView
+                android:gravity="center"
+                android:hint="Ukjent"
+                android:textColor="#000"
+                android:textSize="20dp" />
+        </TableRow><!--Eksamen-->
+    </TableLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Legg til karakter"
+            ></Button>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Slett celle"
+            ></Button>
+    </LinearLayout>
+</LinearLayout>
